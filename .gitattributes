@@ -1,2 +1,3 @@
 *.vb  linguist-language=vba
 *.cls linguist-language=vba
+*.wsf linguist-language=VBScript
